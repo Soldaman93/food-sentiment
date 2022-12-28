@@ -1,2 +1,2 @@
-# yelp-sentiment
-Sentiment analysis on the Yelp Dataset
+# food-sentiment
+Sentiment analysis on the Food.com dataset.
