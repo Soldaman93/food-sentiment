@@ -1,5 +1,4 @@
-# food-sentiment
-## Sentiment analysis on the Food.com dataset
+# food-sentiment: sentiment analysis on the Food.com dataset
 
 The Food.com dataset contains 700K+ reviews of 180K+ food recipes over 18 years of users uploads.
 The dataset can be found on Kaggle at the following url: https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions.
